@@ -5,6 +5,6 @@ Install JSON Server:
 npm install -g json-server
 
 Start JSON Server:
-json-server --watch db.json
+json-server --watch data/db.json
 or
 npx json-server --watch data/db.json
